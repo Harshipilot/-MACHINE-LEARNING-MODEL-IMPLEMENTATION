@@ -28,3 +28,6 @@ Model Training and Evaluation
 The data is split into a training set (80%) and a testing set (20%) using train_test_split from Scikit-learn. The training set is used to train the Naive Bayes model, while the testing set serves to evaluate its performance. After training the model, predictions are made on the test data, and its performance is evaluated using several key metrics:
 **
 
+*output*
+
+![Image](https://github.com/user-attachments/assets/4c4d12d7-2745-4916-b65d-3e66aa94af2d)
