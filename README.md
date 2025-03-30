@@ -1,16 +1,16 @@
 # -MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
-COMPANY: CODETECH IT SOLUTIONS
+*COMPANY*: CODETECH IT SOLUTIONS
 
-NAME: HARSHITH
+*NAME*: HARSHITH
 
-INTERN ID: CT04WU173
+*INTERN ID*: CT04WU173
 
-DOMAIN: PYHTON PROGRAMMING
+*DOMAIN*: PYHTON PROGRAMMING
 
-DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 **Spam Email Detection: Machine Learning Model Implementation
 The objective of this project is to build a machine learning model capable of detecting spam emails (or SMS messages) from legitimate (ham) ones. Spam email detection is a crucial task for email services to help users filter out unwanted content and protect against potential security threats, such as phishing and malicious attachments. In this project, we utilize the Scikit-learn library, a powerful tool for machine learning in Python, to create a spam classifier using a popular dataset known as the SMS Spam Collection.
